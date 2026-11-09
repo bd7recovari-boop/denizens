@@ -1,0 +1,13 @@
+
+{
+  "$schema": "../schema.json",
+  "owner": {
+    "github": "bd7recovari-boop"
+  },
+  "record": {
+    "CNAME": "aurevia.vercel.app"
+  },
+  "email": {
+    "enabled": true
+  }
+}
